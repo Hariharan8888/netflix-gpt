@@ -28,6 +28,11 @@
 - updated store movietrailer and created a slice for it
 - embedded youtube video
 - autoplay on page
+- Build the Secondary Component
+- Build Movie List and Movie Card
+- TMDB Image CDN URL
+- Using Tailwind Makes the app Beautifull
+- usePopularMovies CUstom hook
 
 -
 
