@@ -32,7 +32,16 @@
 - Build Movie List and Movie Card
 - TMDB Image CDN URL
 - Using Tailwind Makes the app Beautifull
-- usePopularMovies CUstom hook
+- usePopularMovies Custom hook
+- GPT search page and search bar
+- GPT search openai APi key
+- GPT search API call
+- Fetch Movie suggestions from TMDB
+- gpt slice and added data
+- Reused MovieList Component to make movie suggestions
+- Memoization
+- adding .env files and adding .env file to gitignore
+- Made our site Responsive
 
 -
 
