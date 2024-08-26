@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "9280000000006078",
+      "name": "Netflix-GPT",
+      "domain": {
+        "id": "50021977539",
+        "name": "netflix-gpt-60032109808.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60032109808",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
